@@ -1,6 +1,6 @@
 # Otimização de rotas e tomada de decisão com Pyomo e mapas reais 
 
-Nos últimos dias, desenvolvi um projeto integrando mapas reais (OpenStreetMap) com modelagem matemática no Pyomo para resolver um problema clássico de logística: como distribuir produtos de um Centro de Distribuição (CD) para diferentes locais de forma ótima, respeitando demandas, capacidades e distâncias reais.
+Neste trabalho, desenvolvi um projeto integrando mapas reais (OpenStreetMap) com modelagem matemática no Pyomo para resolver um problema clássico de logística: como distribuir produtos de um Centro de Distribuição (CD) para diferentes locais de forma ótima, respeitando demandas, capacidades e distâncias reais.
 
 A ideia foi trazer um problema de transporte realista, semelhante ao que empresas de logística, varejo e supply chain enfrentam todos os dias e, aplicar técnicas de Pesquisa Operacional para encontrar a melhor forma de entrega.
 
