@@ -8,6 +8,7 @@ A ideia foi trazer um problema de transporte realista, semelhante ao que empresa
 Pyomo (para a formulação e solução do modelo de otimização);
 OSMnx + NetworkX (para obtenção e análise de mapas reais);
 Folium (para visualização interativa das rotas);
+Pyomo com solver GLPK (para otimizar as demandas);
 Python como linguagem principal de integração e análise.
 
 # Resultados: 
